@@ -393,6 +393,18 @@
   resolved "https://registry.yarnpkg.com/@oxc-project/types/-/types-0.72.1.tgz#a0a848ec3316f1f8bad30f64dfc07f6718d0a5e8"
   integrity sha512-qlvcDuCjISt4W7Izw0i5+GS3zCKJLXkoNDEc+E4ploage35SlZqxahpdKbHDX8uD70KDVNYWtupsHoNETy5kPQ==
 
+"@plugin-web-update-notification/core@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@plugin-web-update-notification/core/-/core-2.0.0.tgz#760b7116578c8dfa408abe8fa98bb71862669a24"
+  integrity sha512-xxtEtTkFHX59iKm6NxCeyA2vZNA8nM+RjmuPC+jc2JAuhR9oGlmWHrlzXM64bu6NxZuQ5W52+sZKUsQUnDLh/g==
+
+"@plugin-web-update-notification/vite@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@plugin-web-update-notification/vite/-/vite-2.0.0.tgz#ea72cc627283cbb0a51a945d4c5efbcb55a243b6"
+  integrity sha512-pytuDfqUmFhJkysiH05BHYs56/7+0ikSQETADqT8S3Zu4j9N+ENEVB0Z2myTRw5FuI3zVLmt/pLXH9EAWYZ2CQ==
+  dependencies:
+    "@plugin-web-update-notification/core" "2.0.0"
+
 "@rc-component/async-validator@^5.0.3":
   version "5.0.4"
   resolved "https://registry.yarnpkg.com/@rc-component/async-validator/-/async-validator-5.0.4.tgz#5291ad92f00a14b6766fc81735c234277f83e948"
